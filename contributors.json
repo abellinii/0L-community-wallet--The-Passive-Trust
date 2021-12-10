@@ -1,10 +1,10 @@
-{"account":<account>,
+{"account":'54d5d5dd28c358060e7600191ec8f515',
     "type":0,
     "details":{
-        'githubId':<str>,
-        'discordId':<str>,
-        'twitterId':<str>,
-        'gdocsId':<str>
+        'githubId':'abellini',
+        'discordId':'Wade  |  The Passive Trust#4475',
+        'twitterId':aabellinii,
+        'email':'thepassivetrust@gmail.com'
         }
     }
     
